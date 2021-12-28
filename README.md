@@ -1,4 +1,4 @@
-    **Welcome to my profile 👋**
+**Welcome to my profile 👋**
 - 🌱 I’m currently learning Springboot.
 - 🤔 I’m currently looking for work.
 - 💬 Ask me about Java, C or any tech related stuff.
